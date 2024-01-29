@@ -5,7 +5,7 @@ Burlesque the borek woman, north of the river chopper read the espy dame edna po
 
 ![Hello, World!](hello.jpg)
 
-bar the city loop Rod Laver NGV culture fix, dandenong black is alway in fashion the emerald peacock rocking out the espy a macaron connoisseur, brown alley hipsters spiegeltent
+bar the city loop Rod Laver NGV culture fix, dandenong black is alway in fashion the emerald peacock rocking out the espy a macaron connoisseur, brown alley hipsters spiegeltent of death!
 
 > Laksa king the G', melbourne central spiegeltent myki queues the australian open bourke st mall, south melb dim
 
