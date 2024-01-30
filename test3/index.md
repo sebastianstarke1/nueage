@@ -13,6 +13,7 @@ For content-first web teams.
 
 [tabs "First tab | Second tab | Third tab"]
   [! home/img/ui1.jpg]
+    loading: eager
   ---
   [! home/img/ui5.jpg]
   ---
