@@ -5,7 +5,7 @@ sections: [.hero]
 appdir: home
 ---
 
-# Title Test
+# Markdown with megapowers
 For content-first web teams.
 
 [button.epic "*Learn how it works*"]
@@ -25,7 +25,7 @@ For content-first web teams.
 
 [.cards.a]
   ### Semantic design system
-  Lorem dolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   [! home/img/design-system.png]
   ---
