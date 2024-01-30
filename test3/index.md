@@ -5,7 +5,7 @@ sections: [.hero]
 appdir: home
 ---
 
-# Markdown with megapowers
+# Test 3
 For content-first web teams.
 
 [button.epic "*Learn how it works*"]
