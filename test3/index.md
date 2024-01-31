@@ -5,7 +5,7 @@ sections: [.hero]
 appdir: home
 ---
 
-# Banune Banane
+# Erzberg
 For content-first web teams.
 
 [button.epic "*Learn how it works*"]
